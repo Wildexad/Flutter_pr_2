@@ -1,6 +1,7 @@
 # pks pr 2
 
-![image](https://github.com/user-attachments/assets/a612514f-b7ad-46e2-ae5f-8da78d5f1bc2)
+![image](https://github.com/user-attachments/assets/d81fec53-6c56-4973-9768-c9e915d1f6ad)
+
 
 Ввод:
 
